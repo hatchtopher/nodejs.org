@@ -625,6 +625,14 @@ REQUIREMENTS
 * Organizer name - Andrew Dunkman
 * Organizer contact info -
 
+#### DC, MD, NoVa (DMV) Metro Area
+
+* [Meetup](https://www.meetup.com/Node-DMV/)
+* Frequency of meetups - bimonthly
+* How to submit a talk? - contact organizers on Meetup page
+* Organizer names (if you wish to provide)
+* Organizers contact info (if you wish to provide)
+
 ### UK
 
 #### London
